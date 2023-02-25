@@ -1,0 +1,79 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    font-family: 'Mali', cursive;
+    font-size: 4em;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: #11999E;
+    line-height: 2;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #30E3CA;
+}
+
+hr {
+    border-style: none;
+    border-top: 4px dotted grey;
+    width: 5%;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding-top:100px;
+    padding-bottom: 30px;
+    color: #11999E;
+}
+
+.middle-container {
+    padding-top: 50px;
+}
+.bottom-container {
+    padding-top: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+}
+
+.montain-picture {
+    width: 450px;
+    height: 400px;
+}
+
+.experience-picture {
+    width: 150px;
+    height: 150px;
+}
+
+.skills-picture {
+    width: 150px;
+    height: 150px;
+}
+
+.certifications-picture {
+    width: 150px;
+    height: 150px;
+}
+
+.education-picture {
+    width: 150px;
+    height: 150px;
+}
