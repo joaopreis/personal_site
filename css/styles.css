@@ -119,3 +119,19 @@ hr {
     margin-right: 30px;
     margin-top: 330px;
 }
+
+button {
+    background-color: #11999E;
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: white;
+    color: #11999E;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
